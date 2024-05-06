@@ -13,7 +13,7 @@ You must have `node` properly installed and configured.
 
 Pass the hero wins and losses as two numbers separated by space:
 
-    # node src/rank.js 31 12
+    $ node src/rank.js 31 12
 
 Output:
 
@@ -25,7 +25,7 @@ Output:
 
 Run the command line without arguments and the program will prompt the user for the matches information:
 
-    # node src/classify.js
+    $ node src/classify.js
 
 Output:
 
