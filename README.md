@@ -5,7 +5,7 @@
 You can use the super duper ranked match calculator to get the net wins and rank of a player!
 
 ## Requirements
-You must `node` properly installed and configured.
+You must have `node` properly installed and configured.
 
 ## How to use
 
